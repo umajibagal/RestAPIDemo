@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1889" started-at="2019-11-06T23:14:26 IST" finished-at="2019-11-06T23:14:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1889" started-at="2019-11-06T23:14:26 IST" finished-at="2019-11-06T23:14:28 IST">
+      <class name="posttest.createpersonresponse.CreatePersonResponseTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:posttest.createpersonresponse.CreatePersonResponseTest@61f8bee4]" name="beforeTest" is-config="true" duration-ms="41" started-at="2019-11-06T23:14:26 IST" finished-at="2019-11-06T23:14:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="getCreatePersonResponse()[pri:0, instance:posttest.createpersonresponse.CreatePersonResponseTest@61f8bee4]" name="getCreatePersonResponse" duration-ms="1807" started-at="2019-11-06T23:14:27 IST" finished-at="2019-11-06T23:14:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCreatePersonResponse -->
+      </class> <!-- posttest.createpersonresponse.CreatePersonResponseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
